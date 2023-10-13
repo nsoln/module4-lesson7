@@ -8,8 +8,9 @@
 .box{
   display: flex;
   justify-content: center;
-  
+
 }
+
 .square{
   width: 40px;
   height: 40px;
